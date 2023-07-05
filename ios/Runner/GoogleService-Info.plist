@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>535479168082-8c4f7soqjlf3m56ani57276ar0po0sd1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.535479168082-8c4f7soqjlf3m56ani57276ar0po0sd1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDiSCNE1wfZOdxsQshoGKLWdJX8FepQ_CI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>535479168082</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.prototypeMudgame</string>
+	<key>PROJECT_ID</key>
+	<string>gamedb1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gamedb1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:535479168082:ios:71910c8011b5bdbfc0038b</string>
+</dict>
+</plist>

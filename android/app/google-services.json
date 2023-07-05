@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535479168082",
+    "project_id": "gamedb1",
+    "storage_bucket": "gamedb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535479168082:android:16a179259091dcc4c0038b",
+        "android_client_info": {
+          "package_name": "com.example.prototype_mudgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535479168082-n3ibcgti3ugokhrjdine83ejps7dqa17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFPcq50iZMsrZSXq-ouE7epPpMh9R7c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535479168082-n3ibcgti3ugokhrjdine83ejps7dqa17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
